@@ -12,7 +12,7 @@
 
     [nvidia官网下载](https://developer.nvidia.com/cuda-downloads)
 
-    根据下载页面的提示下载安装
+    根据页面提示下载安装
 
     [nvidia官网安装文档](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html)
 
