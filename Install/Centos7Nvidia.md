@@ -3,7 +3,7 @@
 
 * 下载NVIDIA驱动:
 
-    官网下载地址：[http://www.geforce.cn/drivers](http://www.geforce.cn/drivers)。根据自己的显卡型号，选择相应的显，进行下载。
+    官网下载地址：[http://www.geforce.cn/drivers](http://www.geforce.cn/drivers)。根据自己的显卡型号选择下载。
 
 
 * 安装EPEL源
@@ -42,7 +42,7 @@
     kernel-debug-devel-3.10.0-862.3.2.el7.x86_64
     ```
 
-    若版本不一致，请重新安装或升级使其版本一致。
+    若版本不一致，请重新安装或升级使版本一致。
 
 * 禁用nouveau
 
@@ -83,7 +83,7 @@
     ```
 
     --kernel-source-path参数根据自己的路径修改
-    
+
     -s 去掉-s以交互模式安装
 
 * 安装完成
