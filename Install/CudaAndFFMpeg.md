@@ -6,7 +6,7 @@
 
 *  下载FFmpeg
 
-    [FFmpeg官网下载页面](./http://ffmpeg.org/download.html)
+    [FFmpeg官网下载页面](http://ffmpeg.org/download.html)
 
 * 下载安装CUDA Toolkit
 
