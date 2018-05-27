@@ -16,7 +16,7 @@
 
     [nvidia官网安装文档](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html)
 
-* 编译安装FFmpeg
+* 编译FFmpeg
 
     ```
     [root@localhost ~]# PATH="$HOME/bin:$PATH" PKG_CONFIG_PATH="$HOME/ffmpeg_build/lib/pkgconfig" ./configure \
