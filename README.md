@@ -2,4 +2,6 @@
 
 #### 环境安装
 
-* [centos7安装Nvidia显卡驱动](./Install/Centos7Nvidia.md)
+* [centos7安装nvidia显卡驱动](./Install/Centos7Nvidia.md)
+
+* [cuda和ffmpeg安装](./Install/CudaAndFFMpeg.md)

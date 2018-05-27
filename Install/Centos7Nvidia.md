@@ -125,7 +125,7 @@
     ```
 
 
-* 问题总结
+* 问题记录
 
     ```
     ERROR: Unable to load the kernel module 'nvidia.ko'.
