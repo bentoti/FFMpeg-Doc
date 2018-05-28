@@ -18,9 +18,9 @@
 
 * 编译FFmpeg
 
-    FFmpeg官网 [Compile FFmpeg on CentOS](https://trac.ffmpeg.org/wiki/CompilationGuide/Centos)
+    FFmpeg官网安装文档 [Compile FFmpeg on CentOS](https://trac.ffmpeg.org/wiki/CompilationGuide/Centos)
 
-    nvidia官网 [FFmpeg/libav using NVIDIA GPUs](https://developer.nvidia.com/ffmpeg)
+    nvidia官网安装文档 [FFmpeg/libav using NVIDIA GPUs](https://developer.nvidia.com/ffmpeg)
 
     ```
     [root@localhost ~]# PATH="$HOME/bin:$PATH" PKG_CONFIG_PATH="$HOME/ffmpeg_build/lib/pkgconfig" ./configure \
